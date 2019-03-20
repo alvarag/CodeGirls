@@ -26,7 +26,9 @@ Carlos Pardo Aguilar
 
 ## Actividades
 
-Magia y adivinanzas
+[Magia](magic/slides.pdf)
+
+Adivinanzas
 
 Subasta
 
@@ -36,6 +38,6 @@ Número de Bacon
 
 Pioneras de la informática
 
-Programa, que no muerde
+[¡Programa!, que no muerde](https://blockly-games.appspot.com/)
 
 Análisis de redes/grafos
