@@ -26,13 +26,15 @@ Carlos Pardo Aguilar
 
 ## Actividades
 
+Análisis de redes y grafos
+
 [Magia](magic/slides.pdf)
 
 Adivinanzas
 
 Subasta
 
-Pupurri de Inteligencia Artificial 
+Pupurrí de Inteligencia Artificial 
 
 Número de Bacon
 
@@ -40,4 +42,3 @@ Pioneras de la informática
 
 [¡Programa!, que no muerde](https://blockly-games.appspot.com/)
 
-Análisis de redes/grafos
