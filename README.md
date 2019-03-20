@@ -34,7 +34,7 @@ Adivinanzas
 
 Subasta
 
-Pupurrí de Inteligencia Artificial 
+[Pupurrí de Inteligencia Artificial](misc/README.md)
 
 Número de Bacon
 
