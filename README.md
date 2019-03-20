@@ -26,8 +26,6 @@ Carlos Pardo Aguilar
 
 ## Actividades
 
-Análisis de redes
-
 Magia y adivinanzas
 
 Subasta
