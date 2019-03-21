@@ -11,17 +11,19 @@ Martes 30 de abril
 
 
 #### Ponentes
-Virginia Ahedo García
-
-Marta Monje Blanco
-
-Alicia Olivares Gil
-
-Álvar Arnaiz González
-
-Mario Juez Gil
-
-Carlos Pardo Aguilar
+------------------|----------------------
+![](pics/vag.jpg) | Virginia Ahedo García
+------------------|----------------------
+                  |Marta Monje Blanco
+------------------|----------------------
+![](pics/aog.jpg) | Alicia Olivares Gil
+------------------|----------------------
+![](pics/aag.jpg) | Álvar Arnaiz González
+------------------|----------------------
+![](pics/mjg.jpg) | Mario Juez Gil
+------------------|----------------------
+![](pics/cpa.jpg) | Carlos Pardo Aguilar
+------------------|----------------------
 
 
 ## Actividades
