@@ -30,7 +30,7 @@ Análisis de redes y grafos
 
 [Magia](magic/slides.pdf)
 
-Adivinanzas
+[Adivina en quién estás pensado](https://es.akinator.com/game)
 
 Subasta
 
