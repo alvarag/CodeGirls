@@ -4,7 +4,8 @@
 
 - [Algoritmos genéticos](https://es.wikipedia.org/wiki/Algoritmo_gen%C3%A9tico): inspirados en la teoría de la evolución de las especies.
 
-[Corre, Dibuja!](https://quickdraw.withgoogle.com/#)
+[Corre, Dibuja!](https://quickdraw.withgoogle.com/)
+- [Red neuronal artificial](https://es.wikipedia.org/wiki/Red_neuronal_artificial): modelo computacional inspirado en las neuronas biológicas.
 
 
 
