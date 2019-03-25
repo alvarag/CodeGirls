@@ -7,7 +7,7 @@ Supongamos que se desea adivinar el animal en el que estás pensando...
 ![](pics/boar.jpg)     | ![](pics/clam.jpg)     | ![](pics/crab.jpg)
 -----------------------|------------------------|----------------------
 ![](pics/flamingo.jpg) | ![](pics/gorilla.jpg)  | ![](pics/hare.jpg)
-![](pics/seal.jpg)     |  ![](pics/dolphin.jpg) | ![](pics/seagull.jpg)
+![](pics/seal.jpg)     | ![](pics/dolphin.jpg)  | ![](pics/seagull.jpg)
 
 
 ### Vamos a utilizar un árbol para descubrir el animal seleccionado.
