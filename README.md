@@ -33,7 +33,7 @@ Subasta
 
 [Pupurrí de Inteligencia Artificial](misc/README.md)
 
-Número de Bacon
+[Número de Bacon](https://oracleofbacon.org/)
 
 Pioneras de la informática
 
