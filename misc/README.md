@@ -1,4 +1,4 @@
-# Pupurrí de Inteligencia Artificial
+# Popurrí de Inteligencia Artificial
 
 [¿Cómo diseñarías un coche de carreras?](https://rednuht.org/genetic_cars_2/)
 
