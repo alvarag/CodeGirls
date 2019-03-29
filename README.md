@@ -31,7 +31,7 @@ Martes 30 de abril
 
 Subasta
 
-[Pupurrí de Inteligencia Artificial](misc/README.md)
+[Popurrí de Inteligencia Artificial](misc/README.md)
 
 Número de Bacon
 
