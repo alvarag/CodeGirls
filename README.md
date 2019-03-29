@@ -23,7 +23,7 @@ Martes 30 de abril
 
 ## Actividades
 
-Análisis de redes y grafos
+[Análisis de redes y grafos](https://docs.google.com/forms/d/e/1FAIpQLSfFAnNgDkatw6z2Kkm25VfepPmox5n0D58mt-CWMIIOxa7mTg/viewform?vc=0&c=0&w=1)
 
 [Magia](magic/slides.pdf)
 
