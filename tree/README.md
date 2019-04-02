@@ -12,5 +12,5 @@ Supongamos que se desea adivinar el animal en el que estás pensando...
 
 ### Vamos a utilizar un árbol para descubrir el animal seleccionado.
 
-![](pics/tree.png)
+![](pics/zoo.png)
 
