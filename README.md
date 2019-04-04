@@ -35,7 +35,8 @@ Subasta
 
 Número de Bacon
 
-[Pioneras de la informática](https://es.wikipedia.org/wiki/Mujeres_en_inform%C3%A1tica)
+[Pioneras de la informática](https://es.wikipedia.org/wiki/Categor%C3%ADa:Pioneras_de_la_inform%C3%A1tica)
+[Mujeres en informática](https://es.wikipedia.org/wiki/Mujeres_en_inform%C3%A1tica)
 
 [¡Programa!, que no muerde](https://blockly-games.appspot.com/)
 
