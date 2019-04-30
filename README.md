@@ -29,8 +29,6 @@ Martes 30 de abril
 
 [Adivina en quién estás pensado](https://es.akinator.com/game)
 
-Subasta
-
 [Popurrí de Inteligencia Artificial](misc/README.md)
 
 [Número de Bacon](https://oracleofbacon.org/)
