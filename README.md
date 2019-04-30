@@ -1,7 +1,7 @@
 # Code Girls
 ## Taller del programa "Quiero ser Ingeniera"
 
-![](https://www.ubu.es/sites/default/files/portal_page/images/cartelqsi_pyb.png)
+[![](https://www.ubu.es/sites/default/files/portal_page/images/cartelqsi_pyb.png)](https://www.ubu.es/escuela-politecnica-superior/quiero-ser-ingeniera)
 
 
 #### Fechas
